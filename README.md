@@ -1,1 +1,1 @@
-# SUBJECT NOTES - WEB APP - v0.2.02.0522
+# SubjectNotes - WebApp - v0.2.02.0522
